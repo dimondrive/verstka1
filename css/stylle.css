@@ -1,3 +1,30 @@
-body{
-    background: white;
+h1{
+    color: red;
+}
+h2{
+    background-color: green;
+    color: white;
+}
+.h2_1{
+    padding: 5px;
+}
+.h2_2{
+    padding: 40px;
+   
+}
+.text1{
+    background-color: blue;
+    width: 100px;
+    color: white;
+    margin-bottom: 100px;
+}
+.text1color{
+    color: red;
+}
+.pGreat{
+    margin-left: 100px;
+}
+li{
+    border: 1px solid black;
+    font-size: 30px;
 }
